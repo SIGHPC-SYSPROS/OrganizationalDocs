@@ -1,11 +1,11 @@
 Bylaws of the SIGHPC Systems Professionals Chapter of the Association
-for Computing Machinery
+for Computing Machinery (SIGHPC-SYSPROS)
 
 **Article I: Name and Scope**
 
 This organization shall be called the SIGHPC Systems Professionals
-Chapter of the Association for Computing Machinery. In these bylaws it
-is referred to as "the Chapter"; the Association for Computing Machinery
+Chapter of the Association for Computing Machinery or SIGHPC-SYSPROS. In these bylaws it
+is referred to as "the Chapter" or SIGHPC-SYSPROS; the Association for Computing Machinery
 is referred to as ACM; and the ACM Special Interest Group on High
 Performance Computing is referred to as ACM SIGHPC.
 
@@ -30,14 +30,12 @@ or internal policies of the Chapter.
 1\. The Chapter is organized and will be operated exclusively for
 educational and scientific purposes. Specific objectives include:
 
-* Promote an increased knowledge of and greater interest in the
-  educational and scientific aspects and applications of High Performance
-  Computing (HPC). 
-* Provide a means of communication among individuals
-  having an interest in HPC. 
-* \ ADD group-specific objectives \ 
-* Promotion of best practices and standards for systems administration,
-  engineering, tools development, documentation, and training
+* Fostering a community for sharing information and solutions pertaining to building and maintaining HPC systems.
+* Assisting in the development of the state of the practice for HPC system administration and design.
+* Organizing events for exchanging information about cutting edge computer technologies and trends facing HPC systems professionals.
+* Promoting of best practices and standards for systems administration,
+  engineering, tools development, documentation, and training.
+* Collecting and disseminating best practices for cybersecurity and data protection within HPC systems.
 
 2\. The activities of the Chapter will include the following:
 
@@ -46,9 +44,11 @@ educational and scientific purposes. Specific objectives include:
   by the ACM Local Activities Manager and the ACM SIGHPC Executive
   Committee. 
 * Collecting and disseminating information through a newsletter, web site, mailed     
-  announcements and/or electronic mail. 
+  announcements, and/or e-mail.
+* Maintenance of an e-mail list and official information repositories.
+* Developing tutorials and training materials.
 * Serving as a source of information for its members, the ACM SIGHPC
-  Chapters, other ACM SIGHPC  and ACM units, and the general public.
+  Chapters, other ACM SIGHPC and ACM units, and the general public.
 
 3\. This Chapter is chartered by ACM. It is formed and will operate
 under the sponsorship of ACM, ACM SIGHPC, and ACM’s SIG Governing Board.
@@ -97,8 +97,7 @@ specified in ACM's Bylaws (Bylaw 6, Section 6; ACM Constitution Article
     the event the Chair has resigned, an acting Chair may be appointed for
     the remainder of the term with a majority "Yes" vote from the Executive
     Committee and approval by the ACM Local Activities Manager, the ACM
-    SIGHPC Executive  Committee, and the ACM Chief Operating Officer. Ties
-    will be settled by dueling.
+    SIGHPC Executive  Committee, and the ACM Chief Operating Officer.
 
 **Article V: Duties of Officers**
 
@@ -167,7 +166,7 @@ Duties of the Treasurer include:
 
 * Education and Training
 * Communications
-* Engagement and Outreach
+* Community Engagement and Outreach
 
 2\. Standing Committees are created or terminated by amending these
     bylaws per the procedure in Article XII.

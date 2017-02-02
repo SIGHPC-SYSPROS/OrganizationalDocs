@@ -151,12 +151,10 @@ Duties of the Treasurer include:
 2\. Members-at-Large shall take office on July 1 and serve for two
     years.
 
-3\. One Member-at-Large should be a student member of the chapter.
-
-4\. All members of the Chapter Executive Committee must be voting
+3\. All members of the Chapter Executive Committee must be voting
     members of the Chapter.
 
-5\. Replacements for resigned Members-at-Large will be nominated by
+4\. Replacements for resigned Members-at-Large will be nominated by
     Chapter Executive Committee and approved by a majority vote of the
     Chapter Executive Committee.
 
@@ -164,9 +162,7 @@ Duties of the Treasurer include:
 
 1\. The standing committees of the Chapter shall be:
 
-* Education and Training
-* Communications
-* Community Engagement and Outreach
+* Events & Programming
 
 2\. Standing Committees are created or terminated by amending these
     bylaws per the procedure in Article XII.

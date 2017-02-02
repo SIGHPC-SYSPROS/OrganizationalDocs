@@ -78,7 +78,7 @@ specified in ACM's Bylaws (Bylaw 6, Section 6; ACM Constitution Article
     Secretary, and Treasurer.
 
 2\. All officers, plus the Past Chair, must be voting members of ACM and
-    members of ACM SIGGHPC.
+    members of ACM SIGHPC.
 
 3\. All officers, plus the Past Chair, must be voting members of the
     Chapter.
@@ -123,7 +123,7 @@ specified in ACM's Bylaws (Bylaw 6, Section 6; ACM Constitution Article
 * Notification to the ACM SIGHPC Chapters Committee Chair and ACM
   Headquarters of any changes in the officers of the Chapter. 
 * Submission of any proposed amendment to these bylaws to the ACM 
-  SIGGHPC Executive Committee, the ACM Local Activities Manager, and
+  SIGHPC Executive Committee, the ACM Local Activities Manager, and
   the Chairs of the Membership Services Board and the ACM Constitution
   and Bylaws Committee. 
 * Assisting the Chair in the management of the Chapter. 
@@ -157,6 +157,8 @@ Duties of the Treasurer include:
 4\. Replacements for resigned Members-at-Large will be nominated by
     Chapter Executive Committee and approved by a majority vote of the
     Chapter Executive Committee.
+    
+5\. One Member-at-Large should be a recent graduate of an undergraduate or graduate program (within three years of graduation), or currently enrolled in an undergraduate or graduate program. This requirement for a Member-at-Large may be waved during the chapter's transition period.
 
 **Article VII: Standing Committees**
 
@@ -218,7 +220,7 @@ Activities Manager
 **Article XII: Amendment and Election Procedures**
 
 1\. All proposed changes to these Chapter Bylaws shall be approved by
-the majority vote of the members of the Chapter, the ACM SIGGHPC
+the majority vote of the members of the Chapter, the ACM SIGHPC
 Executive Committee, the ACM Local Activities Manager and the ACM Chief
 Operating Officer.
 

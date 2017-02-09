@@ -74,7 +74,7 @@ specified in ACM's Bylaws (Bylaw 6, Section 6; ACM Constitution Article
 
 **Article IV: Officers**
 
-1\. The officers of this Chapter shall be:  Chair, two Vice-Chairs,
+1\. The officers of this Chapter shall be:  Chair, Vice-Chair,
     Secretary, and Treasurer.
 
 2\. All officers, plus the Past Chair, must be voting members of ACM and
@@ -106,9 +106,9 @@ specified in ACM's Bylaws (Bylaw 6, Section 6; ACM Constitution Article
     and procedures of ACM. The Chair shall preside at all meetings of the
     Chapter and of its Executive Committee.
 
-2\. The Vice-Chairs shall preside at meetings in the absence of the
+2\. The Vice-Chair shall preside at meetings in the absence of the
     Chair, assist the Chair in the management of the Chapter and perform
-    other duties that may be assigned by the Chair. The Vice-Chairs are also
+    other duties that may be assigned by the Chair. The Vice-Chair is also
     responsible for organizing and overseeing the Chapter's program
     schedule.
 

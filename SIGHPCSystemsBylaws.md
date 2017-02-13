@@ -257,7 +257,8 @@ policy or SIGHPC policy.
 3\.	Should this chapter be dissolved, its assets and liabilities shall be
 transferred to ACM and shall be supervised by ACM's Finance Director.
 
-**Article XIV: Code of Conduct **
+
+**Article XIV: Code of Conduct**
 
 1. Harassment is unwelcome or hostile behavior, including speech that
 intimidates, creates discomfort, or interferes with a person's participation

@@ -260,7 +260,7 @@ transferred to ACM and shall be supervised by ACM's Finance Director.
 
 **Article XIV: Code of Conduct**
 
-1. Harassment is unwelcome or hostile behavior, including speech that
+1.\ Harassment is unwelcome or hostile behavior, including speech that
 intimidates, creates discomfort, or interferes with a person's participation
 or opportunity for participation, in a chapter meeting or chapter event.
 Harassment in any form, including but not limited to harassment based on
@@ -274,10 +274,10 @@ photography or recording, inappropriate physical contact, sexual imagery and
 unwelcome sexual attention. A response that the participant was “just joking,”
 or “teasing,” or being “playful,” will not be accepted.
 
-2. Anyone witnessing or subject to unacceptable behavior should notify a
+2.\ Anyone witnessing or subject to unacceptable behavior should notify a
 chapter officer or ACM Headquarters.
 
-3. Individuals violating these standards may be sanctioned or excluded from
+3.\ Individuals violating these standards may be sanctioned or excluded from
 further participation at the discretion of the chapter officers or responsible
 committee members.
 

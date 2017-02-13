@@ -121,8 +121,7 @@ Duties of the membership chair include:
   * Assisting the Chair in the management of the Chapter. 
   * Performance of other duties as assigned by the Chair.
 
-
-3\. The Secretary shall keep the minutes of all business and Executive
+4\. The Secretary shall keep the minutes of all business and Executive
 Committee meetings of the Chapter. Other duties of the Secretary include:
 
   * Maintaining the records of the Chapter. 
@@ -135,7 +134,7 @@ Committee meetings of the Chapter. Other duties of the Secretary include:
   * Assisting the Chair in the management of the Chapter. 
   * Performance of other duties as assigned by the Chair.
 
-4\. The Treasurer is the chief financial officer of the Chapter. Duties of the
+5\. The Treasurer is the chief financial officer of the Chapter. Duties of the
 Treasurer include:
 
   * Managing the finances of the Chapter according to the policies and
@@ -174,7 +173,7 @@ may be waved during the chapter's transition period.
   * Events & Programming
 
 2\. Standing Committees are created or terminated by amending these bylaws per
-the procedure in Article XII.
+the procedure in Article XI.
 
 3\. Committee Chairs will be approved by a majority vote of the Chapter
 Executive Committee.
@@ -223,7 +222,7 @@ Chief Financial Officer.
 approved by the SIGHPC Executive Committee and the ACM Local Activities
 Manager
 
-**Article XII: Amendment and Election Procedures**
+**Article XI: Amendment and Election Procedures**
 
 1\. All proposed changes to these Chapter Bylaws shall be approved by the
 majority vote of the members of the Chapter, the ACM SIGHPC
@@ -242,7 +241,7 @@ Operating Officer.
   * Election results will be announced by the same written and/or electronic
     means used to announce meetings within two (2) weeks of the deadline to return ballots.
 
-**Article XIII: Dissolution of the Chapter**
+**Article XII: Dissolution of the Chapter**
 
 1\. Dissolution of this Chapter by consent of the members shall consist of
 unanimous agreement of all its officers together with a majority vote at a
@@ -258,7 +257,7 @@ policy or SIGHPC policy.
 transferred to ACM and shall be supervised by ACM's Finance Director.
 
 
-**Article XIV: Code of Conduct**
+**Article XIII: Code of Conduct**
 
 1.\ Harassment is unwelcome or hostile behavior, including speech that
 intimidates, creates discomfort, or interferes with a person's participation
@@ -282,7 +281,7 @@ further participation at the discretion of the chapter officers or responsible
 committee members.
 
 
-**Article XV: Initial Officers and Transition Period**
+**Article XIV: Initial Officers and Transition Period**
 
 1\. For the first two years of existence, a chapter is considered in
 transition. 
@@ -290,7 +289,7 @@ transition.
 2\. During the transition period, the officers shall be appointed by the Chair
 of ACM SIGHPC and approved by the SIGHPC Executive Committee. 
 
-3\. Article XV will be deemed stricken from these bylaws when the first
+3\. Article XIV will be deemed stricken from these bylaws when the first
 elected Executive Committee takes office. 
 
 

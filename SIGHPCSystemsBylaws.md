@@ -1,7 +1,7 @@
 Bylaws of the SIGHPC Systems Professionals Chapter of the Association for
 Computing Machinery (SIGHPC-SYSPROS)
 
-**[Article I: Name and Scope](#article1)**
+**Article I: Name and Scope**
 
 This organization shall be called the SIGHPC Systems Professionals Chapter of
 the Association for Computing Machinery or SIGHPC-SYSPROS. In these bylaws it
@@ -24,7 +24,7 @@ The Constitution, Bylaws, and policies of the ACM, the SIG Governing Board,
 and SIGHPC take precedence over any conflicting provisions of these bylaws or
 internal policies of the Chapter.
 
-**[Article II: Purpose](#article2)**
+**Article II: Purpose**
 
 1\. The Chapter is organized and will be operated exclusively for educational
 and scientific purposes. Specific objectives include:

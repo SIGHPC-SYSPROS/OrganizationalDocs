@@ -24,7 +24,7 @@ The Constitution, Bylaws, and policies of the ACM, the SIG Governing Board,
 and SIGHPC take precedence over any conflicting provisions of these bylaws or
 internal policies of the Chapter.
 
-**Article II: Purpose**
+**[Article II: Purpose](#article2)**
 
 1\. The Chapter is organized and will be operated exclusively for educational
 and scientific purposes. Specific objectives include:

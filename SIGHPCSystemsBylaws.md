@@ -1,7 +1,7 @@
 Bylaws of the SIGHPC Systems Professionals Chapter of the Association for
 Computing Machinery (SIGHPC-SYSPROS)
 
-**Article I: Name and Scope**
+#### Article I: Name and Scope
 
 This organization shall be called the SIGHPC Systems Professionals Chapter of
 the Association for Computing Machinery or SIGHPC-SYSPROS. In these bylaws it
@@ -24,7 +24,7 @@ The Constitution, Bylaws, and policies of the ACM, the SIG Governing Board,
 and SIGHPC take precedence over any conflicting provisions of these bylaws or
 internal policies of the Chapter.
 
-**Article II: Purpose**
+#### Article II: Purpose
 
 1\. The Chapter is organized and will be operated exclusively for educational
 and scientific purposes. Specific objectives include:
@@ -56,7 +56,7 @@ and scientific purposes. Specific objectives include:
 3\. This Chapter is chartered by ACM. It is formed and will operate under the
 sponsorship of ACM, ACM SIGHPC, and ACM’s SIG Governing Board.
 
-**Article III: Membership**
+#### Article III: Membership
 
 The provisions of this section must conform to the membership provisions
 specified in ACM's Bylaws (Bylaw 6, Section 6; ACM Constitution Article 3).
@@ -73,7 +73,7 @@ Student membership dues shall not exceed 75 percent of regular member dues.  
 3\. Membership dues may be waved for members facing financial hardship by vote
 of the Executive Committee for a one year period. 
 
-**Article IV: Officers**
+#### Article IV: Officers
 
 1\. The officers of this Chapter shall be:  Chair, Vice-Chair, Membership
 Chair, Secretary, and Treasurer.
@@ -99,7 +99,7 @@ term with a majority "Yes" vote from the Executive Committee and approval by
 the ACM Local Activities Manager, the ACM SIGHPC Executive  Committee, and the
 ACM Chief Operating Officer.
 
-**Article V: Duties of Officers**
+#### Article V: Duties of Officers
 
 1\. The Chair is the principal officer and is responsible for leading the
 Chapter and managing its activities in accordance with the policies and
@@ -146,7 +146,7 @@ Treasurer include:
   * Assisting the Chair in the management of the Chapter. 
   * Performance of other duties as assigned by the Chair.
 
-**Article VI: Chapter Executive Committee**
+#### Article VI: Chapter Executive Committee
 
 1\. The Chapter Executive Committee shall consist of the present officers of
 the Chapter, the immediate past Chair, chairs of  standing committees, and two
@@ -166,7 +166,7 @@ graduate program (within three years of graduation), or currently enrolled in
 an undergraduate or graduate program. This requirement for a Member-at-Large
 may be waved during the chapter's transition period.
 
-**Article VII: Standing Committees**
+#### Article VII: Standing Committees
 
 1\. The standing committees of the Chapter shall be:
 
@@ -178,14 +178,14 @@ the procedure in Article XI.
 3\. Committee Chairs will be approved by a majority vote of the Chapter
 Executive Committee.
 
-**Article VIII – Ad-hoc Committees**
+#### Article VIII – Ad-hoc Committees
 
 With the advice of the Chapter Executive Committee, the Chair may appoint
 ad-hoc committees and their respective chairs as appropriate.  Ad-hoc
 committees and their chairs must be reviewed annual by the Chapter Executive
 Committee.
 
-**Article IX: Meetings**
+#### Article IX: Meetings
 
 1\. Meetings shall be held as planned by the Executive Committee. The Chapter
 will conduct at least one (1) meeting a year for the general membership. 
@@ -210,7 +210,7 @@ of the chapter or 25 voting members, whichever is greater.
 6\. A simple majority of the voting members present shall be required to carry
 a motion.
 
-**Article X: Disbursements and Dues**
+#### Article X: Disbursements and Dues
 
 1\. Disbursements from the Treasury for expenditures of the Chapter shall be
 made by the Treasurer with authorization of the Executive Committee and shall
@@ -222,7 +222,7 @@ Chief Financial Officer.
 approved by the SIGHPC Executive Committee and the ACM Local Activities
 Manager
 
-**Article XI: Amendment and Election Procedures**
+#### Article XI: Amendment and Election Procedures
 
 1\. All proposed changes to these Chapter Bylaws shall be approved by the
 majority vote of the members of the Chapter, the ACM SIGHPC
@@ -241,7 +241,7 @@ Operating Officer.
   * Election results will be announced by the same written and/or electronic
     means used to announce meetings within two (2) weeks of the deadline to return ballots.
 
-**Article XII: Dissolution of the Chapter**
+#### Article XII: Dissolution of the Chapter
 
 1\. Dissolution of this Chapter by consent of the members shall consist of
 unanimous agreement of all its officers together with a majority vote at a
@@ -257,7 +257,7 @@ policy or SIGHPC policy.
 transferred to ACM and shall be supervised by ACM's Finance Director.
 
 
-**Article XIII: Code of Conduct**
+#### Article XIII: Code of Conduct
 
 1.\ Harassment is unwelcome or hostile behavior, including speech that
 intimidates, creates discomfort, or interferes with a person's participation
@@ -281,7 +281,7 @@ further participation at the discretion of the chapter officers or responsible
 committee members.
 
 
-**Article XIV: Initial Officers and Transition Period**
+#### Article XIV: Initial Officers and Transition Period
 
 1\. For the first two years of existence, a chapter is considered in
 transition. 

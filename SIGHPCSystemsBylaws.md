@@ -1,7 +1,7 @@
 Bylaws of the SIGHPC Systems Professionals Chapter of the Association for
 Computing Machinery (SIGHPC-SYSPROS)
 
-**Article I: Name and Scope**
+**[Article I: Name and Scope](#article1)**
 
 This organization shall be called the SIGHPC Systems Professionals Chapter of
 the Association for Computing Machinery or SIGHPC-SYSPROS. In these bylaws it
